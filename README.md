@@ -1,0 +1,1 @@
+This is the very first step of my HTML studies towards becoming a full-stack engineer. I will learn it one step at a time till i am good with it before graduating to css and then javascript before any other programming language. so help me God.
